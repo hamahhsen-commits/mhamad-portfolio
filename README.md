@@ -6,7 +6,7 @@ A personal portfolio website showcasing my work, skills, and experience as a Com
 
 ## Preview
 
-<!-- Uploading "00.PNG"... -->
+<img width="1887" height="915" alt="Image" src="https://github.com/user-attachments/assets/45a85713-f79c-48d4-9feb-f7790b18c065" />
 
 ## Features
 
